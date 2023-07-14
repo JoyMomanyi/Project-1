@@ -17,12 +17,20 @@ To-Dos For next session: (may be edited as one sees fit and upon agreement with 
 - come up with dataset(s) for analysis - complete
 - Formulate project proposal - complete
 	- Title: EV Marketability in the U.S.
-	- Team Members: Alan, Adrian, Erick, Joy, Cristian
+	- Team Members: Alan, Adrian, Erick, Cristian
 	- Project Description/Outline:
       description of scope of research: (Project Proposal)
-	    Hypothesis: Tesla's are the most dominant ev manufacturer across the U.S. (2020)
-		  Question 1: What is the Base MSRP per Capita? (Shows how much an area is willing to pay for an ev)
-      Question 2: What is the production of EVs compared to state/district? (Shows what state/district are willing to supply to meet demand)
-      Question 3: What are the quantities of type/model of car sold? (Shows demand according to state/district)
-	      consumer preference to type of car: district scale to state scale
-		    consumer preference to model of car: district scale to state scale
+   		Hypothesis: Tesla's are the most dominant ev manufacturer across California
+      		Question 1: What are the top 3 counties with the most evs sold? (Shows demand according to state/district)
+	      		consumer preference to type of car: district scale to state scale
+		    	consumer preference to model of car: district scale to state scale
+		  	What are the top 3 models in the top 3 counties in  CA? (Shows how much an area is willing to pay for an ev)
+   			Obtain the MSRP price points
+   			Analyze across recent years (2019-2023)
+   			illustrate total quantities sold for those 3 models
+   		Question 2: Income statistics compared to evs?
+   		Question 3: Worst 3 counties for evs vs diesel
+   			Obtain worst performers for ev sales
+   			analyze diesel sales
+   			
+
