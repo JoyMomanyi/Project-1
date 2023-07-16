@@ -28,9 +28,9 @@ To-Dos For next session: (may be edited as one sees fit and upon agreement with 
    			Obtain the MSRP price points
    			Analyze across recent years (2019-2023)
    			illustrate total quantities sold for those 3 models
-   		Question 2: Income statistics compared to evs?
-   		Question 3: Worst 3 counties for evs vs diesel
-   			Obtain worst performers for ev sales
-   			analyze diesel sales
+   		Question 2: Why do the bottom 3 counties have the least amount of evs sold?
+   			Look at income statistics
+   		Question 3: What are the most popular ev types and why are they the most favorable?
+			
    			
 
