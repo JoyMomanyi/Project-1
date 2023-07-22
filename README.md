@@ -1,7 +1,23 @@
-# Project-1
-Project Proposal
-The purpose of our project is to maximize EV sales. We plan use the EV population census data to examine the marketability of each type of EV in each state, county, district, etc., by analyzing which is the most attractive attribute of the vehicle in certain locations . With this analysis, we can provide conclusions of how to market certain EVs depending in their location, and thus increasing EV sales. 
+# Project-1: The Marketablility of ZEVs in California
 
+# Purpose
+The purpose of our project is to maximize EV sales. We plan use the California Energy Commission recent ZEV Sales Data(2019-2023) to examine the marketability of each type of ZEV in each California County by analyzing the amount of sales and the preferred Make/Model per county . With this analysis, we can provide conclusions of how to market and boost ZEVs sales depending in their location. 
+
+# Description
+
+# Findings
+The top ten counties for ZEV sales from 2019-2023 were Los Angeles,Orange,Santa Clara,San Diego,Alameda,Riverside,San Mateo,Contra Costa,San Bernardino,San Francisco & the bottom 5 were Trinity,Lassen,Alpine,Sierra,& Modoc,with the favorite make & model across all counties being the model 3 & model y. 
+# Findings Analysis 
+
+# Conclusion
+
+# How to Use The Project
+For the project we used the following dependencies: Matplotlib,Pandas, Numpy. 
+
+# Contributors
+Names of people in group
+
+# Instructions
 Project Delegations:
 - Final data analysis contains complete info in README file
 - Final repository is professional
