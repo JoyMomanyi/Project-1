@@ -52,5 +52,9 @@ To-Dos For next session: (may be edited as one sees fit and upon agreement with 
    			Look at income statistics
    		Question 3: What are the most popular ev types and why are they the most favorable?
 			
+
+# Project Presentation 
+[Live Presenation](https://docs.google.com/presentation/d/1D9st6bQcbdLb-a555N1eXR3AzXN2z6KW7Kqec-Wyyo4/edit?usp=sharing)
+
    			
 
